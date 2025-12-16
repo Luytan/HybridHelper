@@ -1,4 +1,5 @@
 # chainsaw (temporary name)
+REAL REPO AT https://gitlab.com/asus-linux/supreme-chainsaw
 
 A tiny prototype to manage GPU mode on Linux. It discovers GPUs from sysfs and lets you switch between:
 
